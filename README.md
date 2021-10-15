@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ⚡⚡ Kinanee Samson hopes to accomplish a burning desire by building amazing things for others using my skills, I am a Humble, dedicated and commmited individual that's driven with a passion for the value I contribute and the services i offer and is actively open to colaborating on any software project to the best of his ability. ⚡⚡
 
- 🔭 I’m currently working on gas plant management system, that project is almost done.
+ 🔭 I’m currently working on sabiman, that project is almost done.
  
- 🌱 I’m currently learning python and django
+ 🌱 I’m currently learning dart & flutter
  
  ⚡ Kinane Samson was originally a biochemist
  
