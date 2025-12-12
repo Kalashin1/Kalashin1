@@ -1,31 +1,35 @@
-### Hi there 👋
+### 👨‍💻 About Kinanee Samson: Full-Stack Engineer
 
-<!--
-**Kalashin1/Kalashin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I am a highly driven **Full-Stack Software Engineer** with over 5 years of experience [cite: 6] specializing in building, deploying, and optimizing robust, end-to-end applications. [cite_start]My passion is transforming complex project requirements into performant, scalable, and fully deployed software solutions[cite: 7].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Expertise & Technology Stack
 
-🚀🚀 Kinanee Samson is a web developer that is passionate about web development and software engineering, He is experienced in front end development and has the capacity of work on frontend projects written with most modern frameworks, I have found svelte to be very intriguing. I have also worked on multiple frontend projects ranging from simple todo apps to fullstack Blogs and portfolio websites. 🚀🚀
+[cite_start]My primary focus is on the JavaScript ecosystem[cite: 9], utilizing it across the full stack:
+* [cite_start]**Backend:** Architecting high-availability services with **Node.js/Express** and managing **MongoDB** [cite: 6] [cite_start]and **PostgreSQL** databases[cite: 26]. [cite_start]My skills also include PHP and Go (GoLang)[cite: 9].
+* [cite_start]**Frontend & Mobile:** Building responsive user interfaces and cross-platform mobile applications using **React** and **React Native**[cite: 6, 9].
+* [cite_start]**Cloud & Tools:** Experienced in deployment and infrastructure management on **Google Cloud Platform (GCP)** [cite: 10, 18] [cite_start]and **AWS** [cite: 10][cite_start], leveraging tools like Git/GitHub, Circle CI, Jira, and Slack [cite: 12] for continuous integration.
 
- 💯💯  Kinanee Samson's passion for web development further drove him deep into backend web development. He is proficient with the use of node js and is capable of working on projects involving php and python. I worked on a banking dashboard for ctfbonline.com using php. He has also built an online Gas station management software for <a href="uptraxtech.ng">Uptrax Technologies Ltd</a> that's built on top tools like Google's Firebase, GCP services like Cloud Run and Cloud Build. This is the link to the repository for that project.  He currently serves as a Software Developer for Uptrax Technologies a Nigerian based software development company based in Port Harcourt.  💯💯
- 
-🌞🌞  Kinanee Samson is also experienced in working with and building API's and he adopts a software development principle that includes inco-orperating AGLE, TDD, development. He also favours a CI/CD approach to setting up a development environment using automation tools like Circle CI, Github Actions and Cloud Build due to the obvious benefits they have on impacting the developer experience and productivity. He is also capable of working with different database Management systems including RDM, DDM, GDM, and database software services like FireStore, MySQL, MongoDB, SQLLite, and Fauna DB. He is also experienced with Github and actively uses it for version control, documentation and other purposes he currently manages the Uptrax Tech Github Profile. 🌞🌞
+---
 
-⚡⚡ Kinanee Samson hopes to accomplish a burning desire by building amazing things for others using my skills, I am a Humble, dedicated and commmited individual that's driven with a passion for the value I contribute and the services i offer and is actively open to colaborating on any software project to the best of his ability. ⚡⚡
+### ⭐ Key Accomplishments & Projects
 
- 🔭 I’m currently working on sabiman, that project is almost done.
- 
- 🌱 I’m currently learning dart & flutter
- 
- ⚡ Kinane Samson was originally a biochemist
- 
+I deliver tangible results by focusing on automation, efficiency, and system performance:
+
+* **Automation & Efficiency:**
+    * [cite_start]Engineered a custom PDF parsing system that automatically extracted, translated, and structured project data, **eliminating over 8 hours of manual data entry per week**[cite: 17].
+    * [cite_start]Developed a custom PDF writer and generator in PHP to automate client report creation, cutting generation time from 1 hour to **under 5 minutes**[cite: 31].
+    * [cite_start]Automated in-app product delivery management, reducing manual logistics oversight by **60%**[cite: 22].
+* **System Architecture & Deployment:**
+    * [cite_start]Led the end-to-end development of the full-stack Balde Construction app [cite: 20] [cite_start]and architected a custom file management application deployed on Google Cloud Platform (GCP)[cite: 18].
+    * [cite_start]Managed and maintained company Linux servers and domains, achieving **99.9% uptime** for critical financial services[cite: 30].
+* **Performance & Migration:**
+    * [cite_start]Successfully led the migration of the Retala mobile application from Ionic to **React Native**, resulting in a **25% improvement in application performance** and enhanced user experience[cite: 29].
+    * [cite_start]Spearheaded the development and maintenance of the Picknfix React Native mobile app for a user base of **10,000+**[cite: 23].
+
+---
+
+**Interested in collaborating or discussing full-stack development?**
+* [cite_start]**Email:** kinaneesamsonjohn@gmail.com [cite: 3]
+* [cite_start]**LinkedIn:** [Your LinkedIn Profile Link] [cite: 3]
